@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Greenscreen",
+    "slug": "greenscreen",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": ["ios", "android"],
+    "jsEngine": "hermes"
+  }
+}
